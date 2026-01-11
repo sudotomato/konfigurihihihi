@@ -45,7 +45,7 @@
   "reboot_device": false,
   "back_toggles_fullscreen": false,
   "custom_app_title": "LOGOSINFO",
-  "theme": "Green",
+  "theme": "Red",
   "barcode_scanner": false,
   "timeout_storageclear": false,
   "url_blacklist": false,

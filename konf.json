@@ -1,4 +1,4 @@
-	
+{	
 show_print_menu	false
 multitap_settings	true
 hide_action_bar	true
@@ -119,3 +119,4 @@ cache_mode	"LOAD_DEFAULT"
 show_refresh_icon	false
 settings_password	"1975"
 custom_toolbar_url	""
+}
